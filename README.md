@@ -1,9 +1,7 @@
 # Overview
 In this repository you will find a Python implementation of the Vernam Pysical Signal Cipher (VPSC); a method for encrypting waveform signals in a manner which preserves the bandwidth of the origional singal and can *theoretically* provide perfect secrecy (depending on the manner in which the symetric keys are created). From,
 
-An Encrytpion System for Securing Physical Signals
-By *Yisroel Mirsky, Benjamin Fedidat, and Yoram Haddad*
-Published in the SecureComm 2020 Proceedings (citation information below)
+An Encrytpion System for Securing Physical Signals, by *Yisroel Mirsky, Benjamin Fedidat, and Yoram Haddad*, published in the SecureComm 2020 Proceedings (citation information below)
 
 # Abstract
 Secure communication is a necessity. However, common practice is to apply encryption
