@@ -3,6 +3,8 @@ In this repository you will find a Python implementation of the Vernam Pysical S
 
 An Encrytpion System for Securing Physical Signals, by *Yisroel Mirsky, Benjamin Fedidat, and Yoram Haddad*, published in the SecureComm 2020 Proceedings (citation information below)
 
+A preprint of the paper is avalaible here https://arxiv.org/abs/1910.08262 (the published version in Springer is more up to date)
+
 # Abstract
 Secure communication is a necessity. However, common practice is to apply encryption
 only to the upper layers of the communication protocol stack. This type of
